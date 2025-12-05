@@ -34,8 +34,3 @@ Built with Google AI Studio frontend, powered by IBM watsonx, and designed for e
 - **Backend / Agent:** IBM watsonx Orchestrate (ABM Watson X-Architecture)
 - **Frontend:** Google AI Studio
 - **Languages:** TypeScript, HTML, Tailwind CSS
-
-
-View your app in AI Studio: https://ai.studio/apps/drive/1pgjNVF8LZRxnptwEhBhEQkVpy-Zc0eGA
-
-
